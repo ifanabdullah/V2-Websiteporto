@@ -12,8 +12,8 @@ let { mobileNav, loadMobileNav, toggleMobileNav } = useMobileNav();
     <header class="py-5 md:py-7 sticky top-0 z-40 shadow backdrop-blur-2xl bg-slate-200/80 dark:bg-[#0B1120]/80">
         <nav class="flex items-center justify-between container mx-auto px-3 max-w-6xl 2xl:max-w-7xl">
             <router-link :to="{ name: 'home' }">
-                <img class="w-[170px] md:w-[220px] dark:inline-block hidden" src="/logo.png" alt="Web Developer / Designer" />
-                <img class="w-[170px] md:w-[220px] dark:hidden inline-block" src="/logo-dark.png" alt="Web Developer / Designer" />
+                <img class="w-[170px] md:w-[220px] dark:inline-block hidden" src="/white-picsay.png" alt="Web Developer / Designer" />
+                <img class="w-[170px] md:w-[220px] dark:hidden inline-block" src="/black-picsay.png" alt="Web Developer / Designer" />
             </router-link>
             <div class="custom-nav hidden md:block">
                 <ul v-scroll-spy-active="{ selector: 'li a.menu-link-1', class: 'active-link' }" class="flex space-x-12">
