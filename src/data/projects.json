@@ -1,0 +1,50 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "image": "images/project_1.jpg",
+            "category": "Open Source",
+            "title": "X POS & Inventory",
+            "tags": ["Bootstrap", "Laravel", "Livewire"],
+            "code_link": "https://github.com/FahimAnzamDip/triangle-pos",
+            "description": "<p>X POS is an open source Inventory Management with POS System. Developed with Laravel 10, Bootstrap 4 & Livewire 2.0.</p>"
+        },
+        {
+            "id": 2,
+            "image": "images/ifan_2.jpg",
+            "category": "Website Portofolio",
+            "title": "V1 Website Portofolio",
+            "tags": ["Html", "Css", "Java Script"],
+            "live_link": "https://ifanabdullah.netlify.app",
+            "description": "<p>My first portfolio website was built using HTML, CSS and Java script. Open Sourch In Github</p>"
+        },
+        {
+            "id": 3,
+            "image": "images/ifan_3.JPG",
+            "category": "Revamp Portofolio Website",
+            "title": "V2 Portofolio",
+            "tags": ["Html", "Tailwind CSS", "Vue.js"],
+            "live_link": "https://github.com/ifanabdullah",
+            "description": "<p>My revamped portfolio website built with Vue.js & Tailwind CSS. Free Open Sourch</p>"
+        },
+        {
+            "id": 4,
+            "image": "images/project_4.jpg",
+            "category": "Job/Office Project",
+            "title": "Jamia Kashiful Uloom",
+            "tags": ["Bootstrap", "Laravel", "Jquery", "Ajax", "Livewire"],
+            "live_link": "https://kashifululoombd.com",
+            "description": "<p>It's a madrasa management system (student management, hostel management, admission management, employee management etc) with frontend cms for a well known <a href=\"https://www.facebook.com/syedanuwarabullah\" target=\"_blank\">madrasa</a> in Bangladesh. I worked actively in this project for both frontend and backend in my job at Haste IT.</p>"
+        },
+        {
+            "id": 5,
+            "image": "images/project_5.jpg",
+            "category": "Job/Office Project",
+            "title": "Almodina Battery House",
+            "tags": ["Bootstrap", "Laravel", "Livewire", "Jquery"],
+            "description": "<p>It's a work flow management software (sales, purchase, raw material stock, vehicle stock, customer/supplier management, employee management, basic accounting etc) for a auto manufacturing company in Bangladesh. I worked heavily in this project in my job at Haste IT. I was also involved in user requirement analysis and training on how to use the software.</p>"
+        }
+        
+    
+    ]
+}
