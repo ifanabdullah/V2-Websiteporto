@@ -85,9 +85,9 @@ onBeforeUnmount(() => {
                     <img class="w-[1.5rem] md:w-[1.7rem]" src="/images/github.png" alt="Fahim's Github" />
                     <span class="text-lg group-hover:text-gray-700 dark:group-hover:text-white font-medium transition-all duration-300">Github</span>
                 </a>
-                <a href="https://www.linkedin.com/in/fahim-anzam-dip/" target="_blank" class="group flex items-center space-x-3">
-                    <img class="w-[1.5rem] md:w-[1.7rem]" src="/images/igk.png" alt="Fahim's Linkedin" />
-                    <span class="text-lg group-hover:text-gray-700 dark:group-hover:text-white font-medium transition-all duration-300">Linkedin</span>
+                <a href="https://www.instagram.com/ifan_ad_/" target="_blank" class="group flex items-center space-x-3">
+                    <img class="w-[1.5rem] md:w-[1.7rem]" src="/images/igk.png" alt="Ifan Instagram" />
+                    <span class="text-lg group-hover:text-gray-700 dark:group-hover:text-white font-medium transition-all duration-300">Instagram</span>
                 </a>
             </div>
 
