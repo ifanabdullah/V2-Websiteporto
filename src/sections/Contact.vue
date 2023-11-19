@@ -105,7 +105,7 @@ let submitContactForm = () => {
                             </div>
                             <div>
                                 <h4 class="text-xl dark:text-white mb-1">Email</h4>
-                                <p><a href="Https://gmail/Ifanbae807@gmai.com" class="transition-all duration-300 hover:text-secondary-500 dark:hover:text-secondary-300">Ifanbae807@gmail.com</a></p>
+                                <p><a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=ifanbae807@gmail.com@gmail.com" class="transition-all duration-300 hover:text-secondary-500 dark:hover:text-secondary-300">Ifanbae807@gmail.com</a></p>
                             </div>
                         </li>
                         <li class="flex items-center space-x-4">
